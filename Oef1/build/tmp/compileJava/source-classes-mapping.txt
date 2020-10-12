@@ -1,0 +1,36 @@
+package1/ContentBeheerder.java
+ package1.ContentBeheerder
+package1/ProgrammaManager.java
+ package1.ProgrammaManager
+Demo_2.java
+ Demo_2
+package3/ProgrammaManager.java
+ package3.ProgrammaManager
+package2/Gebruiker.java
+ package2.Gebruiker
+package3/ContentBeheerder.java
+ package3.ContentBeheerder
+package2/Vertoning.java
+ package2.Vertoning
+package3/Rol.java
+ package3.Rol
+package2/Film.java
+ package2.Film
+package3/Gebruiker.java
+ package3.Gebruiker
+Demo_3.java
+ Demo_3
+package1/Gebruiker.java
+ package1.Gebruiker
+package3/Film.java
+ package3.Film
+package3/RolEigenaar.java
+ package3.RolEigenaar
+package1/Vertoning.java
+ package1.Vertoning
+package1/Film.java
+ package1.Film
+Demo_1.java
+ Demo_1
+package3/Vertoning.java
+ package3.Vertoning
